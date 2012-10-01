@@ -1,0 +1,5 @@
+maintainer        "Joe Van Dyk"
+maintainer_email  "joe@tanga.com"
+description       "Configures the heroku toolbelt"
+long_description  "Configures the heroku toolbelt"
+recipe            "default", "sets up the toolbelt"
